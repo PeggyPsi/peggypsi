@@ -1,4 +1,5 @@
-## Hi there 👋
+<img width="1700" height="460" alt="github-header-banner (3)" src="https://github.com/user-attachments/assets/95f3bcf2-1984-4c73-810a-e848bc757081" />
+
 
 <!--
 **PeggyPsi/peggypsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
